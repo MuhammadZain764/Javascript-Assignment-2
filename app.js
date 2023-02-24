@@ -96,7 +96,29 @@ console.log("Hello World")
 
 
 //Question 13
+// var devices = ["Keyboard","Mouse","Printer","Monitor"]
+// document.write(devices[0],"<br/>")
+// document.write(devices[1],"<br/>")
+// document.write(devices[2],"<br/>")
+// document.write(devices[3],"<br/>")
+// document.write("<br/>")
+
 //Question 14
+
+// var devices = ["Keyboard","Mouse","Printer","Monitor"] 
+// var reverse = devices.reverse()
+// document.write(devices[0],"<br/>")
+// document.write(devices[1],"<br/>")
+// document.write(devices[2],"<br/>")
+// document.write(devices[3],"<br/>")
+// document.write("<br/>")
+// document.write(reverse[0],"<br/>")
+// document.write(reverse[1],"<br/>")
+// document.write(reverse[2],"<br/>")
+// document.write(reverse[3],"<br/>")
+
+
+
 //Question 15
 
 
@@ -119,20 +141,20 @@ console.log("Hello World")
 
 //Question 2
 
-var matrix = [
+// var matrix = [
 
-    [0,1,2,3],
-    [1,0,1,2],
-    [2,1,0,1],
-    [3,1,2,0],
-    [3,1,3,0]
+//     [0,1,2,3],
+//     [1,0,1,2],
+//     [2,1,0,1],
+//     [3,1,2,0],
+//     [3,1,3,0]
 
-];
-document.write(matrix[0]+"<br/>")
-document.write(matrix[1]+"<br/>")
-document.write(matrix[2]+"<br/>")
-document.write(matrix[3]+"<br/>")
-document.write(matrix[4]+"<br/>")
+// ];
+// document.write(matrix[0]+"<br/>")
+// document.write(matrix[1]+"<br/>")
+// document.write(matrix[2]+"<br/>")
+// document.write(matrix[3]+"<br/>")
+// document.write(matrix[4]+"<br/>")
 
 
 
@@ -201,6 +223,19 @@ document.write(matrix[4]+"<br/>")
 
 //Question 7
 
+// var BakeryItem = ["cake","apple pie", "cookie","chips","patties"]
+// var req_Item = prompt("Welcome to star bakery! What do you want to order")
+// var isMatch = false;
+
+// for (var i = 0; i<BakeryItem.length;i++){
+//     if (BakeryItem[i] === req_Item){
+//         isMatch = true
+//         document.write(req_Item+" "+"is available at index"+i+" "+"in our bakery <br/>")
+//     }
+// }
+// if(isMatch === false)[
+//     document.write("we are sorry")
+// ]
 
 //Question 8
 
