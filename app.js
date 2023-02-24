@@ -123,11 +123,13 @@ var matrix = [
 
     [0,1,2,3],
     [1,0,1,2],
-    [2,1,0,1]
+    [2,1,0,1],
+    [3,1,2,0]
 ];
 document.write(matrix[0]+"<br/>")
 document.write(matrix[1]+"<br/>")
 document.write(matrix[2]+"<br/>")
+document.write(matrix[3]+"<br/>")
 
 
 //Question 3
